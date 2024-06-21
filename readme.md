@@ -1,6 +1,6 @@
 ### K6 stress testing
 
-make sure you have k6 installes on your computer
+make sure you have k6 installed on your computer
 https://k6.io/docs/get-started/installation/
 
 ---
@@ -63,9 +63,3 @@ this file will test the app by signing in and navigate to the school page then e
 ```
  k6 run schools-screenshots.js
 ```
-
----
-
-### 2. schools-screenshots.js:
-
-# k6-camis-stress-testing
